@@ -105,7 +105,10 @@ static void onMouse(int event, int x, int y, int, void*)
 
 
 /*****主函数*****/
-int main()
+/*
+
+*/
+int aa()
 {
 	/*
 	立体校正

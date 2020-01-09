@@ -18,5 +18,8 @@
     <ClCompile Include="distance.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="distance2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
